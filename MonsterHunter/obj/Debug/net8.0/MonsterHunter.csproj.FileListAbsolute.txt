@@ -1,0 +1,14 @@
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.AssemblyInfoInputs.cache
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.AssemblyInfo.cs
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.csproj.CoreCompileInputs.cache
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\bin\Debug\net8.0\MonsterHunter.exe
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\bin\Debug\net8.0\MonsterHunter.deps.json
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\bin\Debug\net8.0\MonsterHunter.runtimeconfig.json
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\bin\Debug\net8.0\MonsterHunter.dll
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\bin\Debug\net8.0\MonsterHunter.pdb
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.dll
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\refint\MonsterHunter.dll
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.pdb
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\MonsterHunter.genruntimeconfig.cache
+C:\Users\clem\source\repos\MonsterHunter\MonsterHunter\obj\Debug\net8.0\ref\MonsterHunter.dll
